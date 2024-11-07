@@ -1,0 +1,111 @@
+[
+    {   
+        "id":1,
+        "title":"Gulab Jamun",
+        "Pic":"../images/gulab jamun.jpeg",
+        "ingredient":["1 cup khoya(dried milk)","1/4 cup all-purpose flour","1/4 tsp baking soda","1 cup sugar","1 cup water","Ghee or oil for frying","Cardamom powder(optional)"],
+        "preparation":[
+            "In a bowl, mix khoya, all-purpose flour, and baking soda to form a smooth dough; let it rest for 10 minutes.",
+            "Shape the dough into small balls, ensuring there are no cracks.",
+            "Heat ghee or oil in a deep pan and fry the balls on low heat until golden brown.",
+            "In a separate pot, boil sugar and water with cardamom to make a syrup; let it cool slightly.",
+            "Soak the fried balls in the warm syrup for at least 2 hours before serving. Enjoy your sweet treat!"
+        ]
+    },
+    {   
+        "id":2,
+        "title":"Biriyani",
+        "Pic":"../images/chicken biriayni.jpeg",
+        "ingredient":["500g chicken","2 cups rice","1 cup yogurt","2 onions(sliced)","1 tsp ginger-garlic paste","2-3 green chillies","whole spcies","saffron strands(optional)","coriander and mint leaves","oil or ghee","salt to taste"],
+        "preparation":[
+            "Marinate chicken or vegetables in yogurt, ginger-garlic paste, and spices for at least an hour.",
+            "Cook basmati rice in salted water until 70% done; drain and set aside.",
+            "In a heavy pot, layer half the rice, followed by the marinated mix, then the remaining rice.",
+            "Sprinkle fried onions, saffron soaked in warm milk, and fresh herbs over the top.",
+            "Seal the pot with a lid or dough to trap steam.",
+            "Cook on low heat (dum) for 30-40 minutes until the chicken is tender.",
+            "Serve hot with raita and salad."
+        ]
+    },
+    {
+        "id":3,
+        "title":"Butter Chicken",
+        "Pic":"../images/butter chicken.jpeg",
+        "ingredient":["500g chicken","1 cup yogurt","1 cup crushed tomatoes","1/2 cup heavy cream","2 onions(finely chopped)","2 tbsp butter","1 tsp ginger-garlic paste","whole spcies","salt to taste","fresh coriander for garnish"],
+        "preparation":[
+               "Marinate chicken in yogurt, lemon juice, and spices for at least 30 minutes.",
+               "In a pan, melt butter and sauté onions until golden; add ginger-garlic paste.",
+               "Add marinated chicken and cook until browned; stir in crushed tomatoes and simmer for 15 minutes.",
+               "Pour in heavy cream, adjust seasoning with salt and sugar, and simmer for another 10 minutes.",
+               "Garnish with fresh coriander and serve with naan or rice."         
+        ]
+    },
+    {
+        "id":4,
+        "title":"Palak Panner",
+        "Pic":"../images/palak panner.jpeg",
+        "ingredient":["250g panner","2 cups fresh spinach","1 onion(chopped)","1 tsp ginger-garlic paste","1/2 cup cream","whole spcies","Oil or ghee","salt to taste"],
+        "preparation":[
+            "Blanch spinach in boiling water for 2 minutes, then transfer to ice water.",
+            "Blend cooled spinach into a smooth puree.",
+            "In a pan, heat ghee, sauté cumin seeds, onions, garlic, and ginger until golden.",
+            "Add spinach puree, spices, and cook for a few minutes.",
+            "Add paneer cubes and simmer gently; stir in cream for richness.",
+            "Serve hot with roti or naan."
+        ]
+    },
+    {
+        "id":5,
+        "title":"Chole Bhature",
+        "Pic":"../images/Chole bathure.jpeg",
+        "ingredient":["1 cup chickpeas","2 onions(chopped)","2 tomatoes","2-3 gree chillies","Spices","2 cups all-purpose flour","1/2 cup yogurt","salt to taste","Oil for frying"],
+        "preparation":[
+            "Cook soaked chickpeas with spices until soft.",
+            "For bhature, mix flour, yogurt, salt, and water to form a soft dough; let it rest for 30 minutes.",
+            "Roll out dough into circles and deep-fry until puffed and golden.",
+            "Sauté onions, ginger, garlic, and tomatoes for chole; add cooked chickpeas and simmer.",
+            "Serve spicy chole with hot bhature, pickles, and onions."
+        ]
+    },
+    {
+        "id":6,
+        "title":"Samosas",
+        "Pic":"../images/Samosa.jpeg",
+        "ingredient":["2 cups all-purpose flour","3-4  potatoes(boiled and mashes)","1/2 cup green peas","1 tsp cumin seeds","Spices","salt to taste","Oil for frying"],
+        "preparation":[
+            "Prepare dough with flour, salt, and water; let it rest for 30 minutes.",
+            "Mix boiled potatoes and peas with spices for the filling.",
+            "Roll dough into circles, cut in half, and shape into cones.",
+            "Fill cones with potato mixture and seal edges with water.",
+            "Deep-fry samosas until golden brown and crispy.",
+            "Serve with mint chutney or tamarind sauce."
+        ]
+    },
+    {
+        "id":7,
+        "title":"Daal Tadka",
+        "Pic":"../images/Dal Tadka.jpeg",
+        "ingredient":["1 cup lentils","1 onion(chopped)","2 tomatoes(chopped)","2-3 gree chillies","1 tsp ginger-garlic paste","Spices","Ghee or Oil","fresh coriander for garnish"],
+        "preparation":[
+            "Rinse and soak lentils for 30 minutes; cook until soft.",
+            "In a pan, heat ghee, add cumin seeds, and sauté onions until golden.",
+            "Add garlic, ginger, green chilies, and tomatoes; cook until soft.",
+            "Mix in cooked lentils and simmer for 10-15 minutes, adjusting consistency with water.",
+            "Garnish with fresh coriander and serve with rice or roti."
+        ]
+    },
+    {
+        "id":8,
+        "title":"Pav Bhaji",
+        "Pic":"../images/Pav Bhaji Food.jpeg",
+        "ingredient":["2 potatoes(boiled and mashed","1 cup mixed vegetable","2 onions(chopped)","2 tomatoes(chopped)","2-3 gree chillies","Pav bhaji masala","Butter","fresh coriander for garnish","Pav(bread rolls)"],
+        "preparation":[
+            "Boil and mash mixed vegetables until smooth.",
+            "In a pan, heat butter and sauté onions, garlic, and ginger until golden.",
+            "Add tomatoes and cook until soft; stir in pav bhaji masala and cook for a few minutes.",
+            "Mix in mashed vegetables and simmer, adding water to reach desired consistency.",
+            "Toast pav with butter on a skillet until golden.",
+            "Serve bhaji hot, garnished with onions, coriander, and a dollop of butter, alongside toasted pav."
+        ]
+    }
+]

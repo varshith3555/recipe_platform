@@ -1,0 +1,107 @@
+[
+    {
+        "id":1,
+        "title":"Bingsu",
+        "Pic":"../images/bingsu.jpeg",
+        "ingredient":["Shaved ice","sweetened condensed milk","red bean paste","fruit (like strawberries and mango)","toppings such as mochi or nuts"],
+        "preparation":[
+            "Shave ice finely and pile it into a bowl",
+            "Drizzle with sweetened condensed milk",
+            "then add a layer of red bean paste",
+            "Top with assorted fruits and additional toppings as desired",
+            "Serve immediately for a refreshing treat!"
+        ]
+    },
+    {
+        "id":2,
+        "title":"Kimchi",
+        "Pic":"../images/kimchi.jpeg",
+        "ingredient":["Napa cabbage","Korean radish","garlic ginger","red pepper flakes","fish sauce","salt"],
+        "preparation":[
+            "Cut the napa cabbage in half and soak it in salted water for several hours.",
+            "Prepare a paste with garlic, ginger, red pepper flakes, and fish sauce.",
+            "Rinse the cabbage and coat it thoroughly with the spice paste.",
+            "Pack the cabbage tightly into a jar, pressing down to remove air.",
+            "Let it ferment at room temperature for a few days, then refrigerate."
+        ]
+    },
+    {
+        "id":3,
+        "title":"Bibimbap",
+        "Pic":"../images/bibimbap.jpeg",
+        "ingredient":["Cooked rice","assorted vegetables (spinach , carrots , zucchini)","egg","gochujang ( Korean chilli paste )" , "sesame oil"],
+        "preparation":[
+            "Sauté each vegetable separately until tender.",
+            "Prepare a sunny-side-up egg.",
+            "In a bowl, place a serving of rice and arrange the vegetables on top.",
+            "Add the egg and drizzle with sesame oil and gochujang.",
+            "Mix everything together before eating."
+        ]
+    },
+    {
+        "id":4,
+        "title":"Bulgogi",
+        "Pic":"../images/Bulgogi.jpeg",
+        "ingredient":["Thinly sliced beef","soy sauce","sugar","garlic","sesame oil","green onions","black pepper"],
+        "preparation":[
+            "Marinate the beef with soy sauce, sugar, minced garlic, sesame oil, and black pepper for at least 30 minutes.",
+            "Heat a skillet over medium-high heat.",
+            "Add the marinated beef and cook until browned and cooked through.",
+            "Stir in chopped green onions just before finishing.",
+            "Serve hot with rice or lettuce wraps."
+        ]
+    },
+    {
+        "id":5,
+        "title":"Tteokbokki",
+        "Pic":"../images/Tteokbokki.jpeg",
+        "ingredient":["Rice cakes","fish cakes","gochujang","sugar","green onions","boiled eggs"],
+        "preparation":[ 
+            "Soak rice cakes in warm water if they are hard.",
+            "In a pan, mix gochujang and sugar with water to create a sauce.",
+            "Add the soaked rice cakes and fish cakes to the pan.",
+            "Cook until the sauce thickens and the rice cakes are soft.",
+            "Garnish with chopped green onions and serve with boiled eggs."
+        ]
+    },
+    {
+        "id":6,
+        "title":"Japchae",
+        "Pic":"../images/Japchae.jpeg",
+        "ingredient":["Sweet potato noodles","beef","spinash","carrots","onions","soy sauce","sesame oil"],
+        "preparation":[
+            "Soak sweet potato noodles in hot water until soft, then drain.",
+            "Saute beef and set aside",
+            "Stir-fry vegetables until tender",
+            "Combine noodles, beef, and vegetables in a pan",
+            "Season with soy sauce and sesame oil, mixing well before serving"
+        ]
+    },
+    {  
+        "id":7,
+        "title":"Jjigae",
+        "Pic":"../images/Jjigae.jpeg",
+        "ingredient":["Kimchi","tofu","pork (or tuna) ","green onions","garlic","gochugaru (red pepper flakes"],
+        "preparation":[
+            "In a pot, sauté pork with garlic until browned.",
+            "Add kimchi and cook for a few minutes to enhance the flavor.",
+            "Pour in water and bring to a boil.",
+            "Add tofu and gochugaru, simmering for about 15 minutes.",
+            "Garnish with chopped green onions before serving hot with rice."
+        ]
+    },
+    {
+        "id":8,
+        "title":"Kimbap",
+        "Pic":"../images/kimbap.jpeg",
+        "ingredient":["Cooked rice","seaweed sheets (nori)","pickled radish","cucumber","carrots","egg","sesame oil","salt"],
+        "preparation":[
+            "Cook rice and mix with a little sesame oil and salt to season.",
+            "Julienne the cucumber and carrots, and sauté the carrots until tender.",
+            "Scramble the egg and cut it into strips",
+            "Lay a seaweed sheet on a bamboo mat, spread a thin layer of rice over it, leaving some space at the top.",
+            "Arrange the vegetables and egg in a line across the rice, then roll tightly using the mat.",
+            "Slice the roll into bite-sized pieces and serve with soy sauce or pickled radish on the side."
+        ]
+    }
+]

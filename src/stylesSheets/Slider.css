@@ -1,0 +1,98 @@
+.slider {
+    margin: 100px auto;
+    width: 90%;
+    max-height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap; 
+}
+
+.slider img {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid black;
+    transition: transform ease-in-out 0.5s;
+}
+
+.slider img:hover {
+    transform: scale(1.1);
+}
+
+.heading {
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem; 
+    color: #2c3e50;
+    margin: 20px 0;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.heading1{
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem; 
+    color: #2c3e50;
+    margin: 20px 0;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;   
+}
+
+.Toastify__toast {
+    font-family: Arial, sans-serif;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Toastify__toast--success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.Toastify__toast--error {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.Toastify__progress-bar--success {
+    background-color: #c3e6cb;
+}
+
+.Toastify__progress-bar--error {
+    background-color: #f5c6cb;
+}
+
+.Toastify__toast-body {
+    font-size: 14px;
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .Toastify__toast {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .slider img {
+        max-width: 120px;
+    }
+}
+
+@media (max-width: 768px) {
+    .slider img {
+        max-width: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    .slider img {
+        max-width: 80px;
+    }
+
+    .slider {
+        margin: 50px auto;
+    }
+}

@@ -1,0 +1,116 @@
+.contact-container1 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 80px;
+    text-align: center; /* Center-aligns all text inside the container */
+}
+
+.contact-h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+.contact-content1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center-aligns form/details and map horizontally */
+    gap: 20px;
+}
+
+.contact-form1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center-aligns form contents horizontally */
+    width: 100%;
+}
+
+.form-group1 {
+    margin-bottom: 15px;
+    width: 80%; /* Adjust width to make it narrower and centered */
+}
+
+.contact-lable1 {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.contact-textarea1 {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: vertical;
+}
+
+.contact-btn {
+    width: 80%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 15px; /* Adds some spacing above the button */
+}
+
+.contact-btn:hover {
+    background-color: #0056b3;
+}
+
+.contact-details {
+    width: 80%;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 4px;
+    text-align: center; /* Center-aligns contact details text */
+}
+
+.contact-details-h3 {
+    margin: 0 0 10px;
+    font-size: 1.5rem;
+}
+
+.contact-details-p {
+    margin: 5px 0;
+    font-size: 1.2rem;
+}
+
+.contact-details-p a {
+    font-size: 1.2rem;
+}
+
+@media (min-width: 768px) {
+    .contact-content1 {
+        flex-direction: row;
+        justify-content: center; /* Center-aligns form/details and map on larger screens */
+    }
+
+    .contact-form1 {
+        width: 50%; /* Adjusts width on larger screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .contact-h2 {
+        font-size: 1.2em;
+    }
+
+    .contact-textarea1 {
+        font-size: 14px;
+    }
+
+    .contact-btn {
+        font-size: 14px;
+    }
+}

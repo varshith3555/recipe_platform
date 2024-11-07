@@ -1,0 +1,99 @@
+[
+    {
+        "id":1,
+        "title":"Tiramisu",
+        "Pic":"../images/Tiramisu.jpeg",
+        "ingredient":["6 egg yolks","3/4 cup sugar","2/3 cup milk","1 1/4 cups heavy cream","1 cup strong brewed coffee(cooled)","24 ladyfinger cookies","Cocoa powder for dusting"],
+        "preparation":[
+            "Whisk egg yolks and sugar, then heat with milk until thickened; cool completely.",
+            "Whip heavy cream and fold it into the egg mixture.",
+            "Dip ladyfingers in coffee and layer them in a dish, alternating with the cream mixture.",
+            "Chill for at least 4 hours and dust with cocoa before serving."
+        ]
+
+    },
+    {
+        "id":2,
+        "title":"Pizza Margherita",
+        "Pic":"../images/Pizza Margherita.jpeg",
+        "ingredient":["Pizza dough","1 cup crushed tomatoes","8 oz mozzarella cheese","Fresh basil leaves","Olive oil and salt"],
+        "preparation":[
+            "Preheat the oven to high heat and roll out the pizza dough.",
+            "Spread crushed tomatoes on the base and add sliced mozzarella.",
+            "Drizzle with olive oil and sprinkle with salt.",
+            "Bake until the crust is golden and cheese is bubbly, then top with fresh basil."
+        ]
+    },
+    {
+        "id":3,
+        "title":"Pasta Carbonara",
+        "Pic":"../images/Pasta Carbonara.jpeg",
+        "ingredient":["400g spaghetti","150g pancetta or guanciale","3 large eggs","1 cup Pecornio Romano cheese","Black pepper"],
+        "preparation":[
+            "Cook spaghetti in salted water until al dente; reserve some pasta water.",
+            "Sauté pancetta until crispy, then remove from heat.",
+            "Whisk eggs and cheese together, then combine with hot pasta and pancetta.",
+            "Add reserved pasta water to create a creamy sauce; serve with black pepper." 
+        ]
+    },
+    {
+        "id":4,
+        "title":"Lasagna",
+        "Pic":"../images/Lasagna.jpeg",
+        "ingredient":["9 lasagna noodles","2 cups meat sauce(ground beef,tomato sauce)","2 cups bechamel sauce","2 cups mozzarella cheese","Parmesan cheese"],
+        "preparation":[
+            "Cook lasagna noodles according to package instructions.",
+            "Layer noodles, meat sauce, béchamel, and mozzarella in a baking dish.",
+            "Repeat layers and top with remaining mozzarella and Parmesan.",
+            "Bake until golden and bubbly, then let it cool before slicing."
+        ]
+    },
+    {
+        "id":5,
+        "title":"Risotto",
+        "Pic":"../images/Risotto.jpeg",
+        "ingredient":["1 cup Arborio rice","4 cups chicken or vegetable broth","1 onion (chopped)","1/2 cup white wine","1/2 cup Parmesan cheese"],
+        "preparation":[
+            "Sauté onion in butter until soft, then add Arborio rice and toast for a minute.",
+            "Gradually add warm broth, stirring continuously until absorbed.",
+            "After about 18-20 minutes, stir in white wine and Parmesan until creamy.",
+            "Season to taste and serve immediately."
+        ]
+    },
+    {
+        "id":6,
+        "title":"Osso Buco",
+        "Pic":"../images/Osso Buco.jpeg",
+        "ingredient":["4 veal shanks","1 onion (chopped)","2 carrots (chopped)","2 cups white wine","2 cups broth"],
+        "preparation":[
+            "Sear veal shanks in a pot until browned, then remove.",
+            "Sauté onion and carrots in the same pot until soft.",
+            "Return shanks to the pot, add wine and broth, and simmer until tender (about 1.5-2 hours).",
+            "Serve with gremolata on top."   
+        ]
+    },
+    {
+        "id":7,
+        "title":"Bruschetta",
+        "Pic":"../images/Bruschetta.jpeg",
+        "ingredient":["1 baguette","2 cups diced tomatoes","2 garlic cloves ","fresh basil","olive oil and balsamic vinegar"],
+        "preparation":[
+            "Toast slices of baguette until golden.",
+            "Mix tomatoes, garlic, basil, olive oil, and balsamic vinegar in a bowl.",
+            "Spoon the mixture onto the toasted bread.",
+            "Serve immediately as an appetizer."
+        ]
+    },
+    {
+        "id":8,
+        "title":"Gelato",
+        "Pic":"../images/gelato.jpeg",
+        "ingredient":["2 cups milk","1 cup heavy cream","3/4 cup sugar","1 tsp vanilla extract","Flavorings (like chocolate or fruit puree)"],
+        "preparation":[
+            "Whisk together milk, cream, sugar, and flavorings until dissolved.",
+            "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+            "Transfer to a container and freeze until firm.",
+            "Scoop and serve in cups or cones."
+        ]
+    }
+]
